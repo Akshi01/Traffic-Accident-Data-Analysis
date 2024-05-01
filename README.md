@@ -1,15 +1,12 @@
 # Traffic Accident Data Analysis
 
-## Dashboard
-#
-
-![](https://imgur.com/a/2rVjWJd.png) 
-#
-![](https://imgur.com/0KYjjsr.png) 
-#
-
 ### Objectives: 
 This project aims to analyze traffic accident data to uncover trends and insights, ultimately enhancing road safety. By examining key factors such as day of the week, time of day, road type, junctions, and monthly trends, we identify patterns and offer actionable recommendations for improvement.
+#
+## Dashboard
+![](https://imgur.com/Wc8vKC1.png) 
+#
+![](https://imgur.com/0KYjjsr.png) 
 #
 ### Key Findings:
 - Accident Metrics:
